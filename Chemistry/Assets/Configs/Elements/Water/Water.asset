@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fd58d518f512d344d815e8c59c0986af, type: 3}
+  m_Name: Water
+  m_EditorClassIdentifier: 
+  elementName: "\u0412\u043E\u0434\u0430"
+  elementFormula: 0
+  elementEnvironment: 0
+  elementColor: {r: 0.6509434, g: 0.12588999, b: 0.12588999, a: 0}
+  chemistryReactionsParameter:
+  - {fileID: 11400000, guid: 29a7e08434cd78d43aeb66e5e2d66e23, type: 2}
+  - {fileID: 11400000, guid: 2eed1bf9b2c0e804b8693fac3e191bb1, type: 2}
+  - {fileID: 11400000, guid: 7ca3d5a50826fdb4c9ee16cbee4c53da, type: 2}
+  - {fileID: 11400000, guid: a3ade2055aa6a244287c9197e25adf16, type: 2}
+  - {fileID: 11400000, guid: 2ea306af74cfd6e48b8cd91749049c1b, type: 2}
+  - {fileID: 11400000, guid: 9f86badfb57ebd840880d019de43dd39, type: 2}
+  - {fileID: 11400000, guid: 34da5765cca899b4d97b47f9ba657b22, type: 2}
+  - {fileID: 11400000, guid: 50cc0d52bfb86d443b6cc0e16030038c, type: 2}
+  - {fileID: 11400000, guid: ad7c27fc2f1854f498db7ff96bb76c2e, type: 2}
